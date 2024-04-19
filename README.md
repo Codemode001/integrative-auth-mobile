@@ -1,4 +1,8 @@
-# integrative
+# Members:
+
+Harold Rhey Pisos,
+Phia Larazabal
+Christcian Amoguis
 
 A new Flutter project.
 
